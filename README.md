@@ -95,14 +95,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. 📄
 
 ---
-
-## 💬 **Contact**
-
-For any queries or suggestions, feel free to reach out:  
-📧 **Email:** shantanukulkarni853@example.com  
-🐦 **Twitter:** [@shantanukulk853](https://twitter.com/shantanukulk853)  
-
----
+🌟 Made by Shantanu Kulkarni 💻🚀
 
 ### 🌟 **Show Some Love!**
 
